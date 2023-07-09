@@ -7,7 +7,7 @@
     "downloader"
   ],
 
-  "repository": "https://github.com/Sharihulshanish/Zee5dl",
+  "repository": "https://github.com/vansh876/Zee5dl",
   
   "env": {
     "WEBHOOK": {
@@ -48,7 +48,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   }
 }
